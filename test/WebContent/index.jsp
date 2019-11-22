@@ -14,7 +14,7 @@
 
  
 <div class="container">
-  <h1 class="col-sm-offset-2 col-sm-10">글수정입니다.20191122</h1>
+  <h1 class="col-sm-offset-2 col-sm-10">야호 신난다.</h1>
 	  <form class="form-horizontal" 
 	  action=""
 	  method="post">
